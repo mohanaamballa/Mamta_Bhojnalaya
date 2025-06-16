@@ -50,8 +50,8 @@ To get started with Mamta Bhojnalaya Restaurant, follow the steps below:
 
 ### Installation
 
-1. Clone the repository: `git clone `
-2. Change into the project directory: `cd Mamta-Bhojnalaya-Restaurant`
+1. Clone the repository: `git clone https://github.com/mohanaamballa/Mamta_Bhojnalaya `
+2. Change into the project directory: `Mamta_Bhojnalaya`
 3. Install All dependencies with(Check Package-look.json): `npm install`
 
 ### Usage
